@@ -1,0 +1,23 @@
+.P1{
+		background-color: yellow;
+		border-width: 1px;
+		border: 2px solid green;
+		margin-bottom: 20px;
+	    padding: 1px 1px;
+}
+
+
+.P2{
+	background-color: red;
+	border-width: 1px;
+	border: 3px solid black;
+	margin-bottom: 20px;
+	padding: 1px 1px;
+}
+
+.P3{
+	background-color: green;
+	border-width: 1px;
+	border: 3px solid yellow;
+	padding: 1px 1px;
+}
