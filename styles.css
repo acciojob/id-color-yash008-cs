@@ -1,17 +1,17 @@
-#P1{
+#yellow{
 		background-color: yellow;
 		border-width: 1px;
 		border: 1px solid green;
 }
 
 
-#P2{
+#red{
 	background-color: red;
 	border-width: 1px;
 	border: 1px solid black;
 }
 
-#P3{
+#green{
 	background-color: green;
 	border-width: 1px;
 	border: 1px solid yellow;
